@@ -25,6 +25,12 @@ The tutorials are written to be useful when read directly on GitHub. The website
 
 The Copper Token package has passed source and file checks. It has **not** been compiled or verified inside a running game by this guide. It is a source exercise, not a ready-to-install mod.
 
+## Free reference case: Mindustry
+
+[ModLab's recorded homing workshop](https://modlabguides.online/workshop/mindustry-homing) supplies original MIT source and a released mod ZIP for Mindustry **160.7**, with installation, a fixed-arena comparison, and recovery steps.
+The [accepted upstream field note](https://github.com/rehan-remade/universal-modder/blob/main/knowledge/games/mindustry/mindustry-160-7-a-reproducible-json-and-javascript-homing-la.md) records mod **0.1.0** on **macOS 15.7**. This is the contributor's first-party report; other systems, multiplayer and independent learner reproduction remain unverified.
+Use the [author's free desktop download](https://anuke.itch.io/mindustry) and Mindustry's built-in JSON/JavaScript mod API. Playing the supplied ZIP needs no coding agent or fal key; agent usage charges may apply when editing.
+
 ## Before you start
 
 You need a coding agent and a game you own. Game and loader versions matter. Start with a separate test instance and a backup, and verify one small change before attempting a larger mod.
